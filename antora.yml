@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: test-content
+title: TEST content Course Title
 version: 1
 nav:
 - modules/ROOT/nav.adoc
